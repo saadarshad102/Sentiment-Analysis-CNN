@@ -19,7 +19,7 @@ pip install -r requirements.txt
 * Download Google News Word2Vec Model
 
 ```bash
-!wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
+wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
 ```
 
 ## Usage
