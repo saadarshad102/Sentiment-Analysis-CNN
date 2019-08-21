@@ -5,7 +5,7 @@ Sentiment Analysis using Convolution Neural Networks(CNN) and Google News Word2V
 * Clone the repository
 
 ```bash
-git clone https://github.com/saadarshad102/Fake-News-Detection.git
+git clone https://github.com/saadarshad102/Sentiment-Analysis.git
 ```
 
 * Open Sentiment-Analysis folder
