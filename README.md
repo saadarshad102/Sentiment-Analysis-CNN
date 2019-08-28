@@ -8,7 +8,7 @@ Sentiment Analysis using Convolution Neural Networks(CNN) and Google News Word2V
 git clone https://github.com/saadarshad102/Sentiment-Analysis-CNN.git
 ```
 
-* Open Sentiment-Analysis folder
+* Open Sentiment-Analysis-CNN folder
 
 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
