@@ -5,7 +5,7 @@ Sentiment Analysis using Convolution Neural Networks(CNN) and Google News Word2V
 * Clone the repository
 
 ```bash
-git clone https://github.com/saadarshad102/Sentiment-Analysis-CNN.git
+git clone https://github.com/ImDarkShadow/Sentiment-Analysis-CNN.git
 ```
 
 * Open Sentiment-Analysis-CNN folder
@@ -16,10 +16,6 @@ git clone https://github.com/saadarshad102/Sentiment-Analysis-CNN.git
 pip install -r requirements.txt
 ```
 
-* Download Google News Word2Vec Model
-
-```bash
-wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
 ```
 
 ## Usage
